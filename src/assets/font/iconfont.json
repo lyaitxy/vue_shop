@@ -1,0 +1,23 @@
+{
+  "id": "3765668",
+  "name": "黑马vue_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11488087",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "32793719",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    }
+  ]
+}
